@@ -20,3 +20,5 @@
 ## webservice信息
 
 - http://localhost:8080/services  列出所有服务，点击某一个看详情
+
+## 客户端调用例子： https://github.com/yale8848/Axis1WebServiceClient
